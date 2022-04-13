@@ -1,6 +1,6 @@
 cask "wiz-cli" do
-  version "v0.14.0-9e8351c"
-  sha256 "be31f76fc3fe7d7912ee42761c555e67746f1672bfdd8ac130543e91fee85528"
+  version :latest
+  sha256 :no_check
 
   url "https://wizcli.app.wiz.io/wizcli-mac"
   name "wizcli"
