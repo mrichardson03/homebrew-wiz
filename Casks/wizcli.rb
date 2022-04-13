@@ -1,4 +1,4 @@
-cask "wiz-cli" do
+cask "wizcli" do
   version :latest
   sha256 :no_check
 
