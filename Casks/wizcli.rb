@@ -1,5 +1,5 @@
 cask "wizcli" do
-  version :latest
+  version "0.14.0-6d90c62"
   sha256 :no_check
 
   url "https://wizcli.app.wiz.io/wizcli-mac"
